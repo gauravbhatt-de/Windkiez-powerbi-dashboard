@@ -7,6 +7,7 @@ An end-to-end Power BI project: a star-schema dataset generated in Python, model
 ![Dashboard overview](images/overview.png)
 
 ---
+<img width="1277" height="745" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/fb555eed-f680-4787-8bfb-f12baf40b677" />
 
 ## The problem
 
